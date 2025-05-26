@@ -19,8 +19,8 @@ This project demonstrates essential data cleaning and preprocessing techniques u
 
 ## Files
 
-- `titanic.csv` — Dataset
-- `preprocessing_titanic.ipynb` — Notebook with code
+- `Titanic-Dataset.csv` — Dataset
+- `1.py`
 
 ##  Outcome
 
